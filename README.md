@@ -13,7 +13,7 @@ DDQK-CONQUER，是[**朵朵青稞（DDQK）**](http://www.suishunyi.top)凯撒�
 
 DDQK-CONQUER, the first in the [DDQK](http://www.suishunyi.top/) Caesar series. In the future, we will launch **SAW** and **CAME** products. [You can go to www.suishunyi.top to learn more)](http://www.suishunyi.top/)
 
-This is an introduction to **DDQK-CONQUER 3.5**, where you can learn how to use and operate artificial intelligence as a new era. This document is in both Chinese and English! （ Thanks to Google Translation)
+This is an introduction to **DDQK-CONQUER 3.6**, where you can learn how to use and operate artificial intelligence as a new era. This document is in both Chinese and English! （ Thanks to Google Translation)
 
 # 成就
 
