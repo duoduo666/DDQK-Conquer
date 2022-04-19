@@ -28,7 +28,7 @@ This is an introduction to **DDQK-CONQUER 3.5**, where you can learn how to use 
 
 把大象从冰箱里取出需要3步，使用DDQK-CONQUER也是3步
 
-- 第一步：打开文件 ***征服者-DDQK-CONQUER-3.5.exe*** 
+- 第一步：打开文件 ***征服者-DDQK-CONQUER-3.6.exe*** 
 
 - 第二步：输入玩家的**昵称**，选择**执棋颜色**（默认执黑），**选择规格**（默认19 x 19）输入好后，按**回车**键。
 
@@ -36,7 +36,7 @@ This is an introduction to **DDQK-CONQUER 3.5**, where you can learn how to use 
 
 It takes 3 steps to take the elephant out of the refrigerator, and it takes 3 steps to use the DDQK-CONQUER
 
-- Step 1: Open the file ***Conqueror-DDQK-CONQUER-3.5.exe***
+- Step 1: Open the file ***Conqueror-DDQK-CONQUER-3.6.exe***
 
 - Step 2: Enter the player's **nickname**, **select the color** of the stone (default is black), **select the standard** (default 19 x 19). Press **ENTER** to confirm.
 
@@ -44,13 +44,13 @@ It takes 3 steps to take the elephant out of the refrigerator, and it takes 3 st
 
 ## 按钮说明 -   button description
 
-DDQK-CONQUER V3.5 一共有只有**3**个按钮。
+DDQK-CONQUER V3.6 一共有只有**3**个按钮。
 
 - **FF** ：认输
 - **PEACE**：和棋
 - **RESTART**：重新开始（只有当一局结束的时候会显示哦！）
 
-DDQK-CONQUER V3.5 has only **3** buttons.
+DDQK-CONQUER V3.6 has only **3** buttons.
 
 - **FF** : Admit Defeat
 - **PEACE**: Draw
