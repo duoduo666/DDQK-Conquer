@@ -18,8 +18,7 @@ This is an introduction to **DDQK-CONQUER 3.6**, where you can learn how to use 
 # 成就
 
  - 2022年RT五子棋大赛**冠军**
- - 2022年 Gomocup Freestyle 第34名
- - 2022年 Gomocup Fastgame 第43名
+ - 
 
 # 使用
 
