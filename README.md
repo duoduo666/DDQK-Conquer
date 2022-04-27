@@ -18,7 +18,7 @@ This is an introduction to **DDQK-CONQUER 3.6**, where you can learn how to use 
 # 成就
 
  - 2022年RT五子棋大赛**冠军**
- - 
+ - Gomocup也有参加，可以自行到gomocup看我的排名（这里就不写了）
 
 # 使用
 
